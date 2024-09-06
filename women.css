@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+/* BGIMG */
+.pic{
+    background-image: url("womenbg1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;  
+}
+
+
+
+/* CARD */
+.btn1{
+    background-color:rgb(181, 181, 239);
+    padding:10px;
+    font-weight: bold;
+}
+   /* icon */
+.fa-heart{
+    color:red;
+}
+   /* button */
+.btn{
+    background-color: rgb(255, 110, 134);
+}
+   /* row2 */
+.bestseller-offer{
+    width: 55px;
+}
+
+
+
+/* GRID */  
+.grid-bg{
+    width: 150px;
+    height:150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("border-design.png");
+    
+    animation-name: rotate;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}   
+@keyframes rotate{
+          0%{
+            transform: rotate(0);
+          }
+          50%{
+            transform: rotate(10deg);
+          }
+          100%{
+            transform: rotate(0deg);
+          }
+}
+
+.grid-box{
+    background-color: #fffdd3;
+}
+
+
+/* TRUSTED */
+.trusted{
+    background-color: rgb(255, 254, 254);
+    box-shadow: 0px 0px 12px 5px  rgb(208, 206, 206) ;
+    width: 230px;
+    height: 160px;
+}
+.icon2{
+    font-size: 50px;
+    color:#41C9E2;
+}
+
+
+
+/* footer */
+.footer-1{
+    gap:130px;
+    background-color: #006769;
+    color: white;
+}
+
+.footer-1 p{
+    font-size: 25px;
+}
+.footer-1 h3{
+    padding-bottom: 20px;
+}
+.policies-footer{
+    background-color: #0d8686;
+    color: white;
+}
+
+.txt1{
+    background-color: #e3efbe;
+}
+
+

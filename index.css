@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif    
+}
+.navbar{
+   
+}
+/* bg-img1 */
+.pic{
+    background-image: url("bg1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:750px;
+    font-size: 100px;
+}
+.bg-txt{
+    font-size: 50px; 
+    padding-top: 100px;
+    text-align: end;
+
+}
+
+/* popular categorie */
+.popular-img1{
+    width: 140px;
+    height: 140px;
+    box-shadow: 0px 0px 12px 2px  rgb(208, 206, 206) ;
+}
+
+
+/* best seller */
+.bestseller{
+    background-color: #F1F1F1;
+}
+.card{
+    background-color: #F7F9F2;
+}
+.card-title{
+    font-weight: bold;
+    
+}
+.best1{
+    width: 500px;
+}
+
+.bstxt{
+    font-size: 15px;
+}
+ 
+.bsprice{
+    gap:30px;
+}
+
+.bsbtn{
+    background-color: #006769;
+    color:white;
+}
+
+
+/* new arrival */
+.new-arrival{
+    background-color: #F8EDE3;
+}
+.txt2{
+    width: 400px;
+    font-size: 50px; 
+    padding-top: 100px;
+    text-align: center;
+}
+button{
+    background-color: #22c4f1;
+}
+
+.but1{
+    color:white;
+    padding:10px;
+}
+   /* card */
+.btnstyle{
+    background-color: #0d8686;
+}
+
+
+/* about us */
+.aboutpic{
+    width: 500px;
+    height:500px;   
+}
+
+
+/* video */
+.homevid{
+    width:600px;
+ }
+.txtvid{
+    font-size: 20px;
+}
+
+ 
+/* icon-social media */
+.show-img{
+    width: 990px;
+    
+}
+
+
+/* free shipping-icons*/
+.free-common{
+    background-color: #B3C8CF;
+}
+
+.easy-icon{
+    display: flex;
+    gap: 10px;
+}
+
+.authentic-icon{
+    display: flex;
+    gap: 10px;
+}
+
+.brand-icon{
+    display: flex;
+    gap: 10px;
+}
+
+.free-icon{
+    display: flex;
+    gap: 10px;
+}
+
+.txt1{
+    background-color: #e3efbe;  
+    font-size: 60px;  
+}
+
+
+
+
+/* footers */
+.footer-1{
+    gap:130px;
+    background-color: #006769;
+    color: white;
+}
+
+.footer-1 p{
+    font-size: 25px;
+}
+.footer-1 h3{
+    padding-bottom: 20px;
+}
+.policies-footer{
+    background-color: #0d8686;
+    color: white;
+}
+
+
+
+
+/* .txt{
+    font-size: 500px;
+} */
+
+

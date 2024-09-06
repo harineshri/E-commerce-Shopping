@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* nav */
+.txt1{
+    background-color: #e3efbe;    
+}
+
+
+/* BGIMG */
+.bgimg{
+    
+    height:675px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("men-bgimg.jpg");
+}
+.bg-txt{
+    padding-top: 200px;
+    padding-left: 130px;
+}
+
+.bg-txt h1{
+    font-size: 55px;
+}
+
+
+
+/* CARD */
+.btn1{
+    background-color:rgb(181, 181, 239);
+    padding:10px;
+    font-weight: bold;
+}
+   /* icon */
+.fa-heart{
+    color:red;
+}
+   /* button */
+.btn{
+    background-color: #536493;
+}
+   /* row2 */
+.bestseller-offer{
+    width: 55px;
+}
+
+
+
+/* DESIGNER */
+.gridcir{
+    width:130px;
+    height: 130px;
+    background-color:#F4BFBF;
+    margin-left: 195px;
+    position: absolute;
+
+}
+.gridrec{
+    background-color:#FFD9C0;
+    width:370px;
+    height:330px;
+    position: relative;
+    top:200px;
+    bottom:30px;
+
+}
+
+.grid1{
+    width:400px;
+    height:420px;
+    box-shadow: 0px 0px 12px 1px rgb(208, 206, 206) ;
+      
+}
+.grid2{
+    box-shadow: 0px 0px 12px 1px rgb(208, 206, 206) ;
+}
+
+.grid3{
+    position: absolute;
+    top:-130px;
+    left:-80px;
+    height: 400px;
+    width:340px;
+    box-shadow: 0px 0px 12px 1px rgb(208, 206, 206) ;
+    
+}
+
+
+/* TRUSTED */
+.trusted{
+    background-color: rgb(255, 254, 254);
+    box-shadow: 0px 0px 12px 5px  rgb(208, 206, 206) ;
+    width: 230px;
+    height: 160px;
+}
+.icon2{
+    font-size: 50px;
+    color:#41C9E2;
+}
+
+
+/* footers */
+
+.footer-1{
+    gap:130px;
+    background-color: #006769;
+    color: white;
+}
+
+.footer-1 p{
+    font-size: 25px;
+}
+.footer-1 h3{
+    padding-bottom: 20px;
+}
+.policies-footer{
+    background-color: #0d8686;
+    color: white;
+}
